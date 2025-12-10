@@ -29,9 +29,11 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-333333?style=for-the-badge&logo=files&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-2E77BC?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 
-## 📊 Featured Projects
+
+## 📊 Major Professional Projects I Led or Contributed To
 
 ### **📌 MCA, GSTIN & Taxpayer Analysis (Govt. of India)**  
 - Built dashboards for **KYB/KYC, fraud detection, compliance & risk scoring**  

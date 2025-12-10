@@ -5,19 +5,16 @@
   <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
-<p align="center">
-  <span style="background-color:#CC2927; color:white; padding:8px 15px; border-radius:5px; font-weight:bold;">SQL</span>
-  &nbsp;•&nbsp;
-  <span style="background-color:#F2C811; color:black; padding:8px 15px; border-radius:5px; font-weight:bold;">Power BI</span>
-  &nbsp;•&nbsp;
-  <span style="background-color:#0E5A8A; color:white; padding:8px 15px; border-radius:5px; font-weight:bold;">Power Query</span>
-  &nbsp;•&nbsp;
-  <span style="background-color:#2E77BC; color:white; padding:8px 15px; border-radius:5px; font-weight:bold;">Report Builder</span>
-  &nbsp;•&nbsp;
-  <span style="background-color:#000000; color:white; padding:8px 15px; border-radius:5px; font-weight:bold;">Microsoft Fabric</span>
-  &nbsp;•&nbsp;
-  <span style="background-color:#217346; color:white; padding:8px 15px; border-radius:5px; font-weight:bold;">Excel</span>
-</p>
+<div align="center" style="background-color:#FFD700; padding:15px 0; border-radius:10px;">
+  <strong style="font-size:18px; color:#000000;">
+    SQL &nbsp;•&nbsp;
+    Power BI &nbsp;•&nbsp;
+    Power Query &nbsp;•&nbsp;
+    Report Builder &nbsp;•&nbsp;
+    Microsoft Fabric &nbsp;•&nbsp;
+    Excel
+  </strong>
+</div>
 
 
 

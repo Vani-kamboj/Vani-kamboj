@@ -5,7 +5,8 @@
   <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
-<div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">
+<div style="display:flex; justify-content:center; flex-wrap: wrap; gap: 10px; align-items:center; margin-top:20px;">
+
   <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&color=F2C811&rounded=true"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white&color=0078D4&rounded=true"/>

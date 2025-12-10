@@ -24,13 +24,39 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 ---
 
-### **Tools & Platforms**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Report Builder](https://img.shields.io/badge/Report%20Builder-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white)
+### **🛠️ Skills**
+
+<p align="center">
+
+  <!-- SQL Server -->
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+  <!-- Power Query -->
+  <img src="https://img.shields.io/badge/Power%20Query-0E5A8A?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+  <!-- Fabric -->
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+  <!-- Data Pipelines -->
+  <img src="https://img.shields.io/badge/Data%20Pipelines-0078D4?style=for-the-badge&logo=azuredatafactory&logoColor=white"/>
+
+  <!-- ETL -->
+  <img src="https://img.shields.io/badge/ETL%20Processes-512BD4?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+  <!-- Data Modeling -->
+  <img src="https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+  <!-- Data Visualization -->
+  <img src="https://img.shields.io/badge/Data%20Visualization-0C4B33?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+</p>
+
 
 
 ### **Data Sources**

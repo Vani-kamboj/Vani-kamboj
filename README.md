@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Senior Data Analyst with 3.6 years of experience, driven by a genuine passion for working with data and uncovering the stories numbers can tell. I love diving into complex datasets, uncovering patterns, and turning them into actionable insights that empower smarter decisions and create real business impact.
+I am a Senior Data Analyst with 3 years and 6 months of experience, driven by a genuine passion for working with data and uncovering the stories numbers can tell. I love diving into complex datasets, uncovering patterns, and turning them into actionable insights that empower smarter decisions and create real business impact.
 
 
 ---

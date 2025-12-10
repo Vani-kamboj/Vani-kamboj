@@ -55,13 +55,16 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 
 ### **Data Sources**
-<img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white&color=0078D4&rounded=true"/>
-<img src="https://img.shields.io/badge/Web%20API-FF6F00?style=flat&logo=api&logoColor=white&color=FF6F00&rounded=true"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
-<img src="https://img.shields.io/badge/CSV-333333?style=flat&logo=files&logoColor=white&color=333333&rounded=true"/>
-<img src="https://img.shields.io/badge/Azure%20SQL-2E77BC?style=flat&logo=microsoft-azure&logoColor=white&color=2E77BC&rounded=true"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white&color=00A1E0&rounded=true"/>
+<div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">
+  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white&color=0078D4&rounded=true"/>
+  <img src="https://img.shields.io/badge/Web%20API-FF6F00?style=flat&logo=api&logoColor=white&color=FF6F00&rounded=true"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
+  <img src="https://img.shields.io/badge/CSV-333333?style=flat&logo=files&logoColor=white&color=333333&rounded=true"/>
+  <img src="https://img.shields.io/badge/Azure%20SQL-2E77BC?style=flat&logo=microsoft-azure&logoColor=white&color=2E77BC&rounded=true"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white&color=00A1E0&rounded=true"/>
+</div>
+
 
 
 

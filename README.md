@@ -5,12 +5,13 @@
   <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
-<p align="center">
-  <kbd>SQL</kbd> &nbsp;•&nbsp;
-  <kbd>Power BI</kbd> &nbsp;•&nbsp;
-  <kbd>Microsoft Fabric</kbd> &nbsp;•&nbsp;
-  <kbd>Excel</kbd>
-</p>
+<h4 align="center">━━━━━━━━━━━━━━━━━━━━━</h4>
+
+<h3 align="center">
+  💡 SQL • 📊 Power BI • 🏗️ Microsoft Fabric • 📘 Excel
+</h3>
+
+<h4 align="center">━━━━━━━━━━━━━━━━━━━━━</h4>
 
 ---
 

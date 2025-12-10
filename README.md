@@ -64,7 +64,7 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 ## 📬 Connect With Me
 
 📧 **Email:** vaanikamboj12@gmail.com  
-🔗 **LinkedIn:** *[LINKEDIN](https://www.linkedin.com/in/vani-kamboj-629174208/)*  
+🔗 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/vani-kamboj-629174208/)*  
 
 
 ---

@@ -5,15 +5,16 @@
   <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
-<p align="center">
-  <b><kbd>SQL</kbd> &nbsp;•&nbsp;
-  <kbd>Power BI</kbd> &nbsp;•&nbsp;
-  <kbd>Power Query</kbd> &nbsp;•&nbsp;
-  <kbd>Report Builder</kbd> &nbsp;•&nbsp;
-  <kbd>Microsoft Fabric</kbd> &nbsp;•&nbsp;
-  <kbd>Excel</kbd></b>
-</p>
+<h2 align="center">🌟 My Core Skills 🌟</h2>
 
+<p align="center">
+  <kbd style="background:#CC2927;color:white;font-size:16px;">SQL</kbd> &nbsp;
+  <kbd style="background:#F2C811;color:black;font-size:16px;">Power BI</kbd> &nbsp;
+  <kbd style="background:#0E5A8A;color:white;font-size:16px;">Power Query</kbd> &nbsp;
+  <kbd style="background:#2E77BC;color:white;font-size:16px;">Report Builder</kbd> &nbsp;
+  <kbd style="background:#000000;color:white;font-size:16px;">Microsoft Fabric</kbd> &nbsp;
+  <kbd style="background:#217346;color:white;font-size:16px;">Excel</kbd>
+</p>
 
 
 

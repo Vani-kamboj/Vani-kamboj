@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#E6C200;">Vani Kamboj</span></h1>
 <h3 align="center">
   A Passionate Data Analyst from India 
-  <img src="https://flagcdn.com/w20/in.png" width="25"/>
+  <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
 <h2 align="center"> SQL . Power BI . Microsoft Fabric . Excel

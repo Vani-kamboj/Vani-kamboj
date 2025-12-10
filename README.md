@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+
 ---
 
 ## 👩‍💻 About Me

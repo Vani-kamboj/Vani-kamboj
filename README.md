@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hello, I'm <span style="color:#E6C200;">Vani Kamboj</span></h1>
-<h3 align="center">Senior Data Analyst | SQL . Power BI . Microsoft Fabric 
+<h3 align="center">Senior Data Analyst | SQL . Power BI . Microsoft Fabric . Excel
 
 ---
 

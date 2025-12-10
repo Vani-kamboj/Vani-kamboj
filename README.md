@@ -6,12 +6,12 @@
 </h3>
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&color=F2C811&rounded=true"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white&color=0078D4&rounded=true"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
-  <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=flat&logo=python&logoColor=white&color=3776AB&rounded=true"/>
-</div>
+![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python Basic](https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 </p>
 

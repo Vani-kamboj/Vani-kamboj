@@ -24,39 +24,20 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 ---
 
-### **🛠️ Skills**
+### **Skills**
 
-<p align="center">
 
-  <!-- SQL Server -->
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-  <!-- Power Query -->
-  <img src="https://img.shields.io/badge/Power%20Query-0E5A8A?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-  <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-  <!-- Fabric -->
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-  <!-- Data Pipelines -->
-  <img src="https://img.shields.io/badge/Data%20Pipelines-0078D4?style=for-the-badge&logo=azuredatafactory&logoColor=white"/>
-
-  <!-- ETL -->
-  <img src="https://img.shields.io/badge/ETL%20Processes-512BD4?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-  <!-- Data Modeling -->
-  <img src="https://img.shields.io/badge/Data%20Modeling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-  <!-- Data Visualization -->
-  <img src="https://img.shields.io/badge/Data%20Visualization-0C4B33?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</p>
-
+![Data Management](https://img.shields.io/badge/Data%20Management-F2C811?style=for-the-badge&logo=DataManagement&logoColor=black)
+![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Integrity](https://img.shields.io/badge/Power%20Query-0E5A8A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Automation](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Paginated Report](https://img.shields.io/badge/Report%20Builder-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0C4B33?style=for-the-badge&logo=tableau&logoColor=white)
+![Data Modelling](https://img.shields.io/badge/Data%20Modelling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Manipulation](https://img.shields.io/badge/Data%20Manipulation-F2A900?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-0078D4?style=for-the-badge&logo=azuredatafactory&logoColor=white)
+![Extract Transform and Load](https://img.shields.io/badge/ETL%20Processes-512BD4?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 
 ### **Data Sources**

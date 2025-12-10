@@ -38,21 +38,19 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 ---
 
 ### **Skills**
-
-
-<img src="https://img.shields.io/badge/Data%20Management-F2C811?style=flat&logo=DataManagement&logoColor=black&color=F2C811&rounded=true"/>
-<img src="https://img.shields.io/badge/Data%20Pipeline-000000?style=flat&logo=microsoft&logoColor=white&color=000000&rounded=true"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
-<img src="https://img.shields.io/badge/Power%20Query-0E5A8A?style=flat&logo=microsoft-excel&logoColor=white&color=0E5A8A&rounded=true"/>
-<img src="https://img.shields.io/badge/Automation-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
-<img src="https://img.shields.io/badge/Paginated%20Reporting-2E77BC?style=flat&logo=microsoft&logoColor=white&color=2E77BC&rounded=true"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-0C4B33?style=flat&logo=tableau&logoColor=white&color=0C4B33&rounded=true"/>
-<img src="https://img.shields.io/badge/Data%20Modelling-FF6F00?style=flat&logo=databricks&logoColor=white&color=FF6F00&rounded=true"/>
-<img src="https://img.shields.io/badge/Data%20Manipulation-F2A900?style=flat&logo=microsoft&logoColor=white&color=F2A900&rounded=true"/>
-<img src="https://img.shields.io/badge/Data%20Ingestion-0078D4?style=flat&logo=azuredatafactory&logoColor=white&color=0078D4&rounded=true"/>
-<img src="https://img.shields.io/badge/ETL%20Processes-512BD4?style=flat&logo=apacheairflow&logoColor=white&color=512BD4&rounded=true"/>
-
-
+<div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">
+  <img src="https://img.shields.io/badge/Data%20Management-F2C811?style=flat&logo=DataManagement&logoColor=black&color=F2C811&rounded=true"/>
+  <img src="https://img.shields.io/badge/Data%20Pipeline-000000?style=flat&logo=microsoft&logoColor=white&color=000000&rounded=true"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0E5A8A?style=flat&logo=microsoft-excel&logoColor=white&color=0E5A8A&rounded=true"/>
+  <img src="https://img.shields.io/badge/Automation-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
+  <img src="https://img.shields.io/badge/Paginated%20Reporting-2E77BC?style=flat&logo=microsoft&logoColor=white&color=2E77BC&rounded=true"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-0C4B33?style=flat&logo=tableau&logoColor=white&color=0C4B33&rounded=true"/>
+  <img src="https://img.shields.io/badge/Data%20Modelling-FF6F00?style=flat&logo=databricks&logoColor=white&color=FF6F00&rounded=true"/>
+  <img src="https://img.shields.io/badge/Data%20Manipulation-F2A900?style=flat&logo=microsoft&logoColor=white&color=F2A900&rounded=true"/>
+  <img src="https://img.shields.io/badge/Data%20Ingestion-0078D4?style=flat&logo=azuredatafactory&logoColor=white&color=0078D4&rounded=true"/>
+  <img src="https://img.shields.io/badge/ETL%20Processes-512BD4?style=flat&logo=apacheairflow&logoColor=white&color=512BD4&rounded=true"/>
+</div>
 
 ### **Data Sources**
 <div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">

@@ -71,4 +71,6 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 ⭐ *If you like my work, consider starring my repositories!*  
 
-⭐ Below are the sample projects that showcase my work — although I can deliver far more advanced, scalable, and business-driven solutions based on requirements.
+<h3><strong><span style="color:#E6C200;">Below are the sample projects that showcase my work — although I can deliver far more advanced, scalable, and business-driven solutions based on requirements.</span></strong></h3>
+
+

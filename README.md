@@ -13,6 +13,25 @@
   <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+A Passionate Data Analyst from India  
+
+<p align="center">
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.png&logoColor=black"/>
+
+  <!-- SQL Server -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_SQL_Server_Logo.png&logoColor=white"/>
+
+  <!-- Microsoft Fabric -->
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_logo.svg&logoColor=white"/>
+
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg&logoColor=white"/>
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg&logoColor=white"/>
+</p>
+
 ---
 
 ## 👩‍💻 About Me

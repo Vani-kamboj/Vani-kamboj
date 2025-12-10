@@ -6,17 +6,12 @@
 </h3>
 
 <p align="center">
-  <kbd style="background:#CC2927; color:white; padding:6px 12px; border-radius:5px;">SQL</kbd>
-  &nbsp;•&nbsp;
-  <kbd style="background:#F2C811; color:black; padding:6px 12px; border-radius:5px;">Power BI</kbd>
-  &nbsp;•&nbsp;
-  <kbd style="background:#0E5A8A; color:white; padding:6px 12px; border-radius:5px;">Python(Basic)</kbd>
-  &nbsp;•&nbsp;
-  <kbd style="background:#2E77BC; color:white; padding:6px 12px; border-radius:5px;">Report Builder</kbd>
-  &nbsp;•&nbsp;
-  <kbd style="background:#000000; color:white; padding:6px 12px; border-radius:5px;">Microsoft Fabric</kbd>
-  &nbsp;•&nbsp;
-  <kbd style="background:#217346; color:white; padding:6px 12px; border-radius:5px;">Excel</kbd>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Query-0E5A8A?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Report%20Builder-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 

@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#E6C200;">Vani Kamboj</span></h1>
-<h3 align="center">Senior Data Analyst | SQL | Power BI | Microsoft Fabric | Python</h3>
+<h3 align="center">Senior Data Analyst | SQL . Power BI . Microsoft Fabric 
 
 ---
 
@@ -12,13 +12,6 @@ Skilled in **Power BI, SQL, DAX, Power Query, Python, and Microsoft Fabric**, I 
 I enjoy solving real-world problems, optimizing processes, and creating dashboards that speak for themselves.
 
 ---
-
-## 🛠 Tech & Tools
-
-### **Languages & Databases**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft-power-bi&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Tools & Platforms**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -69,7 +62,7 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 ## 📬 Connect With Me
 
 📧 **Email:** vaanikamboj12@gmail.com  
-🔗 **LinkedIn:** *[Add your link here](https://www.linkedin.com/in/vani-kamboj-629174208/)*  
+🔗 **LinkedIn:** *[LINKEDIN](https://www.linkedin.com/in/vani-kamboj-629174208/)*  
 
 
 ---

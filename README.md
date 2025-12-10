@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&colorA=ff0000&colorB=990000"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&colorA=ffea00&colorB=f2c811"/>
-  <!-- Repeat for others -->
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&labelColor=990000&rounded=true"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&color=F2C811&labelColor=FFEA00&rounded=true"/>
+
 </p>
 
 

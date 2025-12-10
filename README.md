@@ -1,11 +1,16 @@
-<!-- Banner / Header -->
 <h1 align="center">👋 Hello, I'm <span style="color:#E6C200;">Vani Kamboj</span></h1>
+
 <h3 align="center">
   A Passionate Data Analyst from India 
   <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
-<h2 align="center"> SQL . Power BI . Microsoft Fabric . Excel
+<p align="center">
+  <kbd>SQL</kbd> &nbsp;•&nbsp;
+  <kbd>Power BI</kbd> &nbsp;•&nbsp;
+  <kbd>Microsoft Fabric</kbd> &nbsp;•&nbsp;
+  <kbd>Excel</kbd>
+</p>
 
 ---
 

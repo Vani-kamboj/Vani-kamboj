@@ -17,8 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Senior Data Analyst with **3.6 years of experience** in building data solutions, dashboards, automation pipelines, and analytical models.  
-Skilled in **Power BI, SQL, DAX, Power Query, Python, and Microsoft Fabric**, I transform raw data into powerful business insights for decision-making.
+I am a Senior Data Analyst with 3.6 years of experience driving data-driven decision-making through the development of advanced dashboards, automated data pipelines, and analytical models. I specialize in turning complex datasets into actionable insights, enabling organizations to optimize operations, identify growth opportunities, and make strategic business decisions.
 
 I enjoy solving real-world problems, optimizing processes, and creating dashboards that speak for themselves.
 

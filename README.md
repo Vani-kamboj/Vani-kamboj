@@ -71,18 +71,11 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 ⭐ *If you like my work, consider starring my repositories!*  
 
-![Projects](https://img.shields.io/badge/Below%20are%20the%20sample%20projects%20that%20showcase%20my%20work%20%E2%80%94%20although%20I%20can%20deliver%20far%20more%20advanced%2C%20scalable%2C%20and%20business--driven%20solutions%20based%20on%20requirements.-E6C200?style=for-the-badge&logo=markdown&logoColor=Yellow)
+![Projects](https://img.shields.io/badge/Below%20are%20the%20sample%20projects%20that%20showcase%20my%20work%20%E2%80%94%20although%20I%20can%20deliver%20far%20more%20advanced%2C%20scalable%2C%20and%20business--driven%20solutions%20based%20on%20requirements.-008000?style=for-the-badge&logo=markdown&logoColor=Yellow)
 
-<div style="
-  background:#E6C200;
-  padding:12px 18px;
-  border-radius:8px;
-  font-weight:bold;
-  font-size:20px;
-  color:black;
-  text-align:center;">
-  Below are the sample projects that showcase my work — although I can deliver far more advanced, scalable, and business-driven solutions based on requirements.
-</div>
+
+
+
 
 
 

@@ -85,6 +85,12 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 📧 **Email:** vaanikamboj12@gmail.com  
 🔗 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/vani-kamboj-629174208/)*  
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Vani-kamboj/Vani-Kamboj.portfolio.github.io/main/VaniKamboj_Data_Analyst.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+  </a>
+</p>
+
 
 
 ---

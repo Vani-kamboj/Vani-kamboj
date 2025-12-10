@@ -12,21 +12,6 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-A Passionate Data Analyst from India  
-
-<p align="center">
-  <!-- Power BI -->
-  <img src="/mnt/data/c830bbac-a7b6-45d4-aed2-a65b05d10264.png" alt="Power BI" width="120"/>
-
-  <!-- SQL Server -->
-  <img src="/mnt/data/c0e214da-d48a-4cc5-87d6-18e64e4460c9.png" alt="SQL Server" width="120"/>
-
-  <!-- Microsoft Fabric -->
-  <img src="/mnt/data/7d8ee875-6e19-4047-b7c6-69b725e3e364.png" alt="Microsoft Fabric" width="120"/>
-
-  <!-- Excel -->
-  <img src="/mnt/data/52677703-9e4f-4136-bb99-21c78541cf8a.png" alt="Excel" width="120"/>
-</p>
 
 ---
 

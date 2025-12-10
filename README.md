@@ -5,22 +5,13 @@
   <img src="https://flagcdn.com/w40/in.png" width="30"/>
 </h3>
 
-<p align="center">
-<div style="display:flex; gap:10px; justify-content:center; align-items:center; margin-top:20px;">
-  <!-- SQL Badge -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="140" height="40">
-    <rect rx="20" ry="20" width="140" height="40" fill="#CC2927"/>
-    <text x="70" y="25" font-family="Arial" font-size="16" fill="white" text-anchor="middle" alignment-baseline="middle">SQL</text>
-  </svg>
-
-  <!-- Power BI Badge -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="160" height="40">
-    <rect rx="20" ry="20" width="160" height="40" fill="#F2C811"/>
-    <text x="80" y="25" font-family="Arial" font-size="16" fill="black" text-anchor="middle" alignment-baseline="middle">Power BI</text>
-  </svg>
+<div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&color=F2C811&rounded=true"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white&color=0078D4&rounded=true"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
+  <img src="https://img.shields.io/badge/Python%20(Basic)-3776AB?style=flat&logo=python&logoColor=white&color=3776AB&rounded=true"/>
 </div>
-
-
 
 </p>
 

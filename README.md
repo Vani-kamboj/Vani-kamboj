@@ -51,36 +51,6 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 </div>
 
 
-
-
-## 📊 Major Professional Projects I Led or Contributed To
-
-### **📌 MCA, GSTIN & Taxpayer Analysis (Govt. of India)**  
-- Built dashboards for **KYB/KYC, fraud detection, compliance & risk scoring**  
-- Used Microsoft Fabric for ETL, modeling, and automation  
-- Delivered insights impacting business evaluation and governance  
-
-### **📌 Sales Analytics – Dabur (India)**  
-- Sales tracking: **YTD, MTD, LY, MoM, YoY**  
-- Created DAX measures for growth metrics  
-- Cleaned and modeled data in Power Query  
-
-### **📌 Temperature Monitoring – Singapore**  
-- Python-based ETL → Lakehouse → Warehouse using pipelines → Power BI
-- Real-time temperature monitoring with Data Activator triggers  
-- Built automated alerting and Power BI dashboards  
-
-### **📌 Real Estate Analytics – USA**  
-- Designed KPI dashboards and automated reports  
-- Created DAX measures and integrated multiple data sources  
-
-### **📌 Insurance Dashboard – USA**  
-- Pulled data via Python → Lakehouse → Warehouse → Power BI 
-- Built paginated reports and automated insights  
-- Modeled insurance data for trend analysis  
-
----
-
 ## 📬 Connect With Me
 
 📧 **Email:** vaanikamboj12@gmail.com  

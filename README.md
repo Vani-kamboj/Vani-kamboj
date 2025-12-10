@@ -40,12 +40,12 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 - Used Microsoft Fabric for ETL, modeling, and automation  
 - Delivered insights impacting business evaluation and governance  
 
-### **📌 Sales Analytics – Dabur (GCC Regions)**  
+### **📌 Sales Analytics – Dabur (India)**  
 - Sales tracking: **YTD, MTD, LY, MoM, YoY**  
 - Created DAX measures for growth metrics  
 - Cleaned and modeled data in Power Query  
 
-### **📌 Temperature Monitoring – Aecus Asia (Singapore)**  
+### **📌 Temperature Monitoring – Singapore**  
 - Python-based ETL → Lakehouse → Warehouse pipelines  
 - Real-time temperature monitoring with Data Activator triggers  
 - Built automated alerting and Power BI dashboards  
@@ -54,7 +54,7 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 - Designed KPI dashboards and automated reports  
 - Created DAX measures and integrated multiple data sources  
 
-### **📌 Insurance Dashboard – USA (MAG)**  
+### **📌 Insurance Dashboard – USA**  
 - Pulled data via Python → Lakehouse → Warehouse  
 - Built paginated reports and automated insights  
 - Modeled insurance data for trend analysis  

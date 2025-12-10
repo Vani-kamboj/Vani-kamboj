@@ -17,9 +17,8 @@
 
 ## 👩‍💻 About Me
 
-I am a Senior Data Analyst with 3.6 years of experience driving data-driven decision-making through the development of advanced dashboards, automated data pipelines, and analytical models. I specialize in turning complex datasets into actionable insights, enabling organizations to optimize operations, identify growth opportunities, and make strategic business decisions.
+I am a Senior Data Analyst with 3.6 years of experience, driven by a genuine passion for working with data and uncovering the stories numbers can tell. I love diving into complex datasets, uncovering patterns, and turning them into actionable insights that empower smarter decisions and create real business impact.
 
-I enjoy solving real-world problems, optimizing processes, and creating dashboards that speak for themselves.
 
 ---
 

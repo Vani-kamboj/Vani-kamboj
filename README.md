@@ -10,7 +10,7 @@
   &nbsp;•&nbsp;
   <kbd style="background:#F2C811; color:black; padding:6px 12px; border-radius:5px;">Power BI</kbd>
   &nbsp;•&nbsp;
-  <kbd style="background:#0E5A8A; color:white; padding:6px 12px; border-radius:5px;">Power Query</kbd>
+  <kbd style="background:#0E5A8A; color:white; padding:6px 12px; border-radius:5px;">Python(Basic)</kbd>
   &nbsp;•&nbsp;
   <kbd style="background:#2E77BC; color:white; padding:6px 12px; border-radius:5px;">Report Builder</kbd>
   &nbsp;•&nbsp;

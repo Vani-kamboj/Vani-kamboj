@@ -46,7 +46,7 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 - Cleaned and modeled data in Power Query  
 
 ### **📌 Temperature Monitoring – Singapore**  
-- Python-based ETL → Lakehouse → Warehouse pipelines  
+- Python-based ETL → Lakehouse → Warehouse using pipelines → Power BI
 - Real-time temperature monitoring with Data Activator triggers  
 - Built automated alerting and Power BI dashboards  
 
@@ -55,7 +55,7 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 - Created DAX measures and integrated multiple data sources  
 
 ### **📌 Insurance Dashboard – USA**  
-- Pulled data via Python → Lakehouse → Warehouse  
+- Pulled data via Python → Lakehouse → Warehouse → Power BI 
 - Built paginated reports and automated insights  
 - Modeled insurance data for trend analysis  
 

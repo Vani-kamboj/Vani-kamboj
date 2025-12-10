@@ -9,24 +9,23 @@
 - Strong in data modeling, ETL, dashboards & automation  
 - I love turning data into meaningful insights  
 
----
+## 🛠 Tech & Tools
 
-## 🛠 Tech Stack  
+### Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20(ETL)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Languages & Tools**  
-- SQL, DAX, Python  
-- Power BI, MS SQL Server  
-- Microsoft Fabric (Lakehouse, Pipelines, Dataflows, Data Activator, Warehouse, SQL)  
-- Excel, Power Query  
+### Data Sources
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-333333?style=for-the-badge&logo=files&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-2E77BC?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
 
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vanikamboj&show_icons=true" />
-</p>
-
----
 
 ### ✨ Thanks for visiting my profile!  

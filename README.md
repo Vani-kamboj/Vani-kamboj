@@ -6,11 +6,15 @@
 </h3>
 
 <p align="center">
-  <kbd>SQL</kbd> &nbsp;•&nbsp;
+  <b><kbd>SQL</kbd> &nbsp;•&nbsp;
   <kbd>Power BI</kbd> &nbsp;•&nbsp;
+  <kbd>Power Query</kbd> &nbsp;•&nbsp;
+  <kbd>Report Builder</kbd> &nbsp;•&nbsp;
   <kbd>Microsoft Fabric</kbd> &nbsp;•&nbsp;
-  <kbd>Excel</kbd>
+  <kbd>Excel</kbd></b>
 </p>
+
+
 
 
 ---

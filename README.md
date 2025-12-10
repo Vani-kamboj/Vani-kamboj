@@ -40,7 +40,7 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Integrity](https://img.shields.io/badge/Power%20Query-0E5A8A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Paginated Reporting](https://img.shields.io/badge/Paginated%Reporting-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white)
+![Paginated Reporting](https://img.shields.io/badge/Paginated%20Reporting-2E77BC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0C4B33?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Modelling](https://img.shields.io/badge/Data%20Modelling-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Manipulation](https://img.shields.io/badge/Data%20Manipulation-F2A900?style=for-the-badge&logo=microsoft&logoColor=white)

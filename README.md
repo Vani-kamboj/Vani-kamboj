@@ -71,9 +71,8 @@ I enjoy solving real-world problems, optimizing processes, and creating dashboar
 
 ⭐ *If you like my work, consider starring my repositories!*  
 
-<h3><strong><span style="background: linear-gradient(90deg, #E6C200, #ffb300); -webkit-background-clip: text; color: transparent;">
-Below are the sample projects that showcase my work — although I can deliver far more advanced, scalable, and business-driven solutions based on requirements.
-</span></strong></h3>
+![Projects](https://img.shields.io/badge/Below%20are%20the%20sample%20projects%20that%20showcase%20my%20work%20%E2%80%94%20although%20I%20can%20deliver%20far%20more%20advanced%2C%20scalable%2C%20and%20business--driven%20solutions%20based%20on%20requirements.-E6C200?style=for-the-badge&logo=markdown&logoColor=black)
+
 
 
 

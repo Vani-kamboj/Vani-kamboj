@@ -1,78 +1,83 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#E6C200;">Vani Kamboj</span></h1>
+<h1 align="center">Hi 👋, I'm Vani Kamboj</h1>
 
 <h3 align="center">
-  A Passionate Data Analyst from India 
-  <img src="https://flagcdn.com/w40/in.png" width="30"/>
+Senior Data Analyst | Power BI • SQL • Microsoft Fabric  
+<br/>Turning data into meaningful insights 🚀
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/vani-kamboj-629174208/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://portfolio-vanikamboj-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="mailto:vaanikamboj12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Senior Data Analyst with nearly 4 years of experience, driven by a genuine passion for working with data and uncovering the stories numbers can tell. I love diving into complex datasets, uncovering patterns, and turning them into actionable insights that empower smarter decisions and create real business impact.
-
+- 💼 Senior Data Analyst with **4+ years of experience**
+- 📊 Skilled in **Power BI, SQL, Microsoft Fabric, Python**
+- ⚙️ Building **end-to-end data pipelines & analytics solutions**
+- 📈 Passionate about **data storytelling & business insights**
+- 🌱 Currently exploring **advanced data engineering in Fabric**
 
 ---
 
-### **Skills**
-<div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">
-  <img src="https://img.shields.io/badge/Data%20Management-F2C811?style=flat&logo=DataManagement&logoColor=black&color=F2C811&rounded=true"/>
-  <img src="https://img.shields.io/badge/Data%20Pipeline-000000?style=flat&logo=microsoft&logoColor=white&color=000000&rounded=true"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
-  <img src="https://img.shields.io/badge/Power%20Query-0E5A8A?style=flat&logo=microsoft-excel&logoColor=white&color=0E5A8A&rounded=true"/>
-  <img src="https://img.shields.io/badge/Automation-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
-  <img src="https://img.shields.io/badge/Paginated%20Reporting-2E77BC?style=flat&logo=microsoft&logoColor=white&color=2E77BC&rounded=true"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-0C4B33?style=flat&logo=tableau&logoColor=white&color=0C4B33&rounded=true"/>
-  <img src="https://img.shields.io/badge/Data%20Modelling-FF6F00?style=flat&logo=databricks&logoColor=white&color=FF6F00&rounded=true"/>
-  <img src="https://img.shields.io/badge/Data%20Manipulation-F2A900?style=flat&logo=microsoft&logoColor=white&color=F2A900&rounded=true"/>
-  <img src="https://img.shields.io/badge/Data%20Ingestion-0078D4?style=flat&logo=azuredatafactory&logoColor=white&color=0078D4&rounded=true"/>
-  <img src="https://img.shields.io/badge/ETL%20Processes-512BD4?style=flat&logo=apacheairflow&logoColor=white&color=512BD4&rounded=true"/>
-</div>
+## 🛠️ Tech Stack
 
-### **Data Sources**
-<div style="display:flex; flex-wrap: wrap; gap: 10px; align-items:center;">
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927&rounded=true"/>
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white&color=0078D4&rounded=true"/>
-  <img src="https://img.shields.io/badge/Web%20API-FF6F00?style=flat&logo=api&logoColor=white&color=FF6F00&rounded=true"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&color=217346&rounded=true"/>
-  <img src="https://img.shields.io/badge/CSV-333333?style=flat&logo=files&logoColor=white&color=333333&rounded=true"/>
-  <img src="https://img.shields.io/badge/Azure%20SQL-2E77BC?style=flat&logo=microsoft-azure&logoColor=white&color=2E77BC&rounded=true"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white&color=00A1E0&rounded=true"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,azure"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 What I Do
+
+✔ Build scalable **ETL pipelines** using Microsoft Fabric  
+✔ Transform raw data into **clean, structured datasets**  
+✔ Design **data models & warehouses** for analytics  
+✔ Create **interactive Power BI dashboards**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vani-kamboj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vani-kamboj&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Work
+
+🔹 MCA, GSTIN & Taxpayers Analytics Platform  
+🔹 End-to-End Data Pipeline using Microsoft Fabric  
+🔹 Interactive Power BI Dashboards  
+
+---
 
 ## 📬 Connect With Me
 
-📧 **Email:** vaanikamboj12@gmail.com  
-🔗 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/vani-kamboj-629174208/)*  
-🔗 **Portfolio:** *[Portfolio](https://portfolio-vanikamboj-one.vercel.app/)* 
-<p align="center">
-  <a href="https://github.com/Vani-kamboj/Vani-Kamboj.portfolio.github.io/blob/main/VaniKamboj_Data_Analyst.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
-  </a>
-</p>
-
-
+📧 Email: vaanikamboj12@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/vani-kamboj-629174208/  
+🌐 Portfolio: https://portfolio-vanikamboj-one.vercel.app/  
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
-
-![Projects](https://img.shields.io/badge/Below%20are%20the%20sample%20projects%20that%20showcase%20my%20work%20%E2%80%94%20although%20I%20can%20deliver%20far%20more%20advanced%2C%20scalable%2C%20and%20business--driven%20solutions%20based%20on%20requirements.-008000?style=for-the-badge&logo=markdown&logoColor=Yellow)
-
-
-
-
-
-
-
-
-
+<p align="center">
+✨ “Turning data into decisions” ✨
+</p>

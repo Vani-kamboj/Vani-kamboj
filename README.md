@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Vani-kamboj/Vani-Kamboj.portfolio.github.io/blob/main/VaniKamboj_Data_Analyst.pdf">
-  <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
 </a>
 
 </div>

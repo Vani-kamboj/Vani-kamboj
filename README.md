@@ -17,9 +17,9 @@
 
 <div align="center">
 
-| 🇮🇳 Location | 🕓 Experience | 🎯 Focus | 📊 Domains |
-|:---:|:---:|:---:|:---:|
-| India | 4+ Years | BI & Analytics Engineering | Retail · E-commerce · IoT |
+| 🇮🇳 Location | 🕓 Experience | 🎯 Focus | 
+|:---:|:---:|:---:|
+| India | 4+ Years | BI & Analytics Engineering |
 
 </div>
 
@@ -40,9 +40,9 @@ I'm a **Senior Data Analyst** who turns raw, messy data into insights leadership
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=green"/>
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=red"/>
 <img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
@@ -70,10 +70,10 @@ I'm a **Senior Data Analyst** who turns raw, messy data into insights leadership
 
 ### 🛒 Retail Supply Chain & Sales
 **Problem:** Regional sales & supply-chain performance was scattered across disconnected sources.
-**Approach:** Built a Power BI dashboard on a SQL-backed model with dynamic filters for drill-down analysis.
-**Impact:** `⚠️ add metric — e.g. "cut reporting time from X hrs to Y"`
+**Approach:** Built a Power BI dashboard with dynamic filters for drill-down analysis.
 
-`Power BI` `SQL`
+
+`Power BI` `Power Query`
 
 </td>
 <td width="33%" valign="top">
@@ -81,7 +81,7 @@ I'm a **Senior Data Analyst** who turns raw, messy data into insights leadership
 ### 🔁 Cohort Analysis — E-commerce
 **Problem:** No visibility into customer retention or repeat-purchase behavior over time.
 **Approach:** Built cohort retention analysis entirely in SQL Server to segment customers by acquisition period.
-**Impact:** `⚠️ add metric — e.g. "surfaced X% drop-off at week 2"`
+`
 
 `Microsoft SQL Server`
 
@@ -91,7 +91,7 @@ I'm a **Senior Data Analyst** who turns raw, messy data into insights leadership
 ### 🌡️ Temperature Sensor Analytics
 **Problem:** Sensor data arrived in real time with no automated way to monitor or alert on anomalies.
 **Approach:** Built an end-to-end Fabric pipeline ingesting API data through multiple layers into live dashboards with automated alerting.
-**Impact:** `⚠️ add metric — e.g. "reduced alert latency to under X minutes"`
+
 
 `Microsoft Fabric` `Power BI` `Paginated Reports`
 
@@ -99,7 +99,6 @@ I'm a **Senior Data Analyst** who turns raw, messy data into insights leadership
 </tr>
 </table>
 
-<div align="center"><i>👉 Link each project title to its GitHub repo, and swap the ⚠️ placeholders for real numbers — that's what turns "I built a dashboard" into "I saved X hours/week."</i></div>
 
 <br/>
 

@@ -91,7 +91,7 @@
 - Enabled **~30% faster decision-making** through DAX-driven KPI systems
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
 ### 🎓 Certifications
 

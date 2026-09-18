@@ -1,98 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0078D4&height=140&text=Vani%20Kamboj%20|%20Senior%20Data%20Analyst&fontSize=26&fontColor=F2C811&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:F2C811&height=190&section=header&text=Vani%20Kamboj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 
-<h2>📊 Vani Kamboj here!</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Analyst;Power+BI+%7C+SQL+%7C+Microsoft+Fabric;Turning+Raw+Data+Into+Business+Decisions&font=Fira+Code&center=true&width=520&height=40&color=0078D4&vCenter=true&size=20"/>
+</a>
 
-<h3>🙏 Namaste, I'm Vani — turning data into decisions.</h3>
-
-<img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
+<a href="https://www.linkedin.com/in/vani-kamboj-629174208/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vaanikamboj12@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-vanikamboj-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Vani-kamboj/Vani-Kamboj.portfolio.github.io/blob/main/VaniKamboj_Data_Analyst.pdf"><img src="https://img.shields.io/badge/Resume-F2C811?style=for-the-badge&logo=adobeacrobat&logoColor=black"/></a>
 
 </div>
-
-<br/>
-
-## 👋 About Me
-
-- 📊 Senior Data Analyst with 4+ years of experience across BI & analytics engineering
-- 🧩 I translate ambiguous business questions into clean, reusable data models
-- ⚙️ I build automated pipelines so reports refresh reliably without manual rework
-- 📐 I focus on governance and self-serve reporting, not one-off dashboards
-- 🤝 I work directly with stakeholders to define KPIs before touching a single visual
-- ⚡ Ask me about Power BI, DAX, SQL Server, and Microsoft Fabric
 
 <br/>
 
 <div align="center">
 
-### 🔗 Follow Me on
-
-<a href="https://www.linkedin.com/in/vani-kamboj-629174208/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vaanikamboj12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-vanikamboj-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+| 🇮🇳 Location | 🕓 Experience | 🎯 Focus | 
+|:---:|:---:|:---:|
+| India | 4+ Years | BI & Analytics Engineering |
 
 </div>
 
 <br/>
 
-## 🧰 Languages & Tools I Have Placed My Hands On
+## 🧭 About Me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,cs,cpp,mysql,azure,git,github,vscode,figma,windows"/>
-</p>
+I'm a **Senior Data Analyst** who turns raw, messy data into insights leadership actually acts on. I work across the full analytics lifecycle — building ETL pipelines, modeling data for scale, and designing dashboards and paginated reports that hold up under real business use, not just a demo.
 
-<br/>
-
-## ⚡ GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vani-kamboj&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vani-kamboj&theme=github_dark" width="35%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vani-kamboj&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
+- 🧩 Translate ambiguous business questions into clean, reusable data models
+- ⚙️ Build automated pipelines so reports refresh reliably without manual rework
+- 📐 Design for governance and self-serve reporting, not one-off dashboards
+- 🤝 Work directly with stakeholders to define KPIs before touching a single visual
 
 <br/>
 
-## 🖥️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=green"/>
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=red"/>
+<img src="https://img.shields.io/badge/Python-F2C811?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-<br/>
+<div align="center">
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+| Category | Skills |
+|---|---|
+| **Data Engineering** | Data Pipelines · ETL Processes · Data Ingestion · Data Modelling |
+| **Analysis & Reporting** | Data Analysis · Data Manipulation · Paginated Reporting · Data Visualization |
+| **Tools & Automation** | Power Query · Workflow Automation · Data Management |
+| **Data Sources** | MS SQL · Azure SQL · SharePoint · Salesforce · Web APIs · Excel · CSV |
 
-### ⭐ Top Projects
-
-**Retail Supply Chain & Sales** — Power BI, SQL
-**Cohort Analysis (E-commerce)** — SQL Server
-**Temperature Sensor Analytics** — Fabric, Power BI
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -108,6 +72,7 @@
 **Problem:** Regional sales & supply-chain performance was scattered across disconnected sources.
 **Approach:** Built a Power BI dashboard with dynamic filters for drill-down analysis.
 
+
 `Power BI` `Power Query`
 
 </td>
@@ -116,6 +81,7 @@
 ### 🔁 Cohort Analysis — E-commerce
 **Problem:** No visibility into customer retention or repeat-purchase behavior over time.
 **Approach:** Built cohort retention analysis entirely in SQL Server to segment customers by acquisition period.
+`
 
 `Microsoft SQL Server`
 
@@ -126,24 +92,38 @@
 **Problem:** Sensor data arrived in real time with no automated way to monitor or alert on anomalies.
 **Approach:** Built an end-to-end Fabric pipeline ingesting API data through multiple layers into live dashboards with automated alerting.
 
+
 `Microsoft Fabric` `Power BI` `Paginated Reports`
 
 </td>
 </tr>
 </table>
 
+
 <br/>
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vani-kamboj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vani-kamboj&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vani-kamboj&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<br/>
+
+## 📬 Let's Connect
+
+<p align="center">
+📧 <b>vaanikamboj12@gmail.com</b> &nbsp;•&nbsp; 🔗 <a href="https://www.linkedin.com/in/vani-kamboj-629174208/">LinkedIn</a> &nbsp;•&nbsp; 🌐 <a href="https://portfolio-vanikamboj-one.vercel.app/">Portfolio</a>
+</p>
 
 <div align="center">
 
-### 🤝 Let's Collaborate
-
-<a href="https://www.linkedin.com/in/vani-kamboj-629174208/"><img src="https://img.shields.io/badge/Open%20to%20Opportunities-F2C811?style=for-the-badge&logoColor=black"/></a>
-
-<br/><br/>
-
 ⭐ **If you find my work useful, consider starring my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0078D4,100:0F172A&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:0078D4&height=100&section=footer"/>
 
 </div>

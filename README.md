@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:F2C811&height=190&section=header&text=Vani%20Kamboj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:0078D4,100:F2C811&height=220&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=56&descSize=17&descColor=F8FAFC"/>
+
+<img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
+
+</div>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Analyst;Power+BI+%7C+SQL+%7C+Microsoft+Fabric;Turning+Raw+Data+Into+Business+Decisions&font=Fira+Code&center=true&width=520&height=40&color=0078D4&vCenter=true&size=20"/>

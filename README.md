@@ -4,11 +4,12 @@
 
 <br/>
 
-<img src="https://readmeforge.natrajx.in/api/text-anim?text=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&effect=wave&size=20&width=1000&height=70&metal=neon-blue"/>
+<img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
 
 </div>
 
 <br/>
+
 
 ## 👋 About Me
 

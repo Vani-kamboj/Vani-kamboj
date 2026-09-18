@@ -1,12 +1,12 @@
-<div align="center">
+<<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0078D4&height=220&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=62&descSize=16&descColor=E2E8F0"/>
+<img width="100%" src="https://raw.githubusercontent.com/Vani-kamboj/Vani-kamboj/main/assets/data-banner.svg" alt="Vani Kamboj - Senior Data Analyst"/>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
 
 </div>
-
-<br/>
 
 **Data Analytics • Business Intelligence • Data Modeling • ETL • Reporting**
 

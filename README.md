@@ -31,23 +31,39 @@
 
 <br/>
 
-## 🧰 Languages & Tools I Have Placed My Hands On
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,cs,cpp,mysql,azure,git,github,vscode,figma,windows"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| **Data Engineering** | Data Pipelines · ETL Processes · Data Ingestion · Data Modelling |
+| **Analysis & Reporting** | Data Analysis · Data Manipulation · Paginated Reporting · Data Visualization |
+| **Tools & Automation** | Power Query · Workflow Automation · Data Management |
+| **Data Sources** | MS SQL · Azure SQL · SharePoint · Salesforce · Web APIs · Excel · CSV |
+
+</div>
 
 <br/>
 
-## ⚡ GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vani-kamboj&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vani-kamboj&theme=github_dark" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vani-kamboj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vani-kamboj&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vani-kamboj&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vani-kamboj&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <br/>

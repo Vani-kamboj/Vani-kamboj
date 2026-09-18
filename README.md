@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:075985,70:0284C7,100:38BDF8&height=250&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=58&descSize=16&descColor=E0F2FE"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0C4A6E,50:0369A1,75:0891B2,100:22D3EE&height=250&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=58&descSize=16&descColor=CFFAFE"/>
 
-<img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0284C7&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0891B2&style=flat-square"/>
 
 </div>
 

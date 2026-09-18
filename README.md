@@ -92,7 +92,7 @@ End-to-end Power BI dashboard tracking regional sales KPIs, built on a star-sche
 | Project | Description | Tools |
 |---|---|---|
 | 🔹 Retail Supply Chain and Sales Analysis | An interactive Power BI dashboard analyzing North America's retail supply chain and sales performance. Designed to deliver actionable business insights through dynamic filters and visual storytelling. | Power BI, SQL |
-| 🔹 Cohort Analysis - E-commerce Dataset | This project performs cohort retention analysis on an e-commerce dataset using SQL Server. | Python, Excel |
+| 🔹 Cohort Analysis - E-commerce Dataset | This project performs cohort retention analysis on an e-commerce dataset using SQL Server. | Microsoft SQL Server |
 | 🔹 Temperature Sensor Analytics | An end-to-end data solution built on Microsoft Fabric that ingests real-time temperature sensor data from an API, processes it through multiple layers, and delivers live dashboards with automated alerting. | Microsoft Fabric, Power BI, Report Builder for Paginated Report |
 
 <br/>

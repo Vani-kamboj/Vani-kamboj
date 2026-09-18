@@ -81,7 +81,7 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="30%" valign="top" align="left">
 
 ### 📈 Key Achievements
 
@@ -91,7 +91,7 @@
 - Enabled **~30% faster decision-making** through DAX-driven KPI systems
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="30%" valign="top" align="left">
 
 ### 🎓 Certifications
 

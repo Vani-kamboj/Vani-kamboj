@@ -15,7 +15,7 @@
 - ⚙️ I build automated pipelines so reports refresh reliably without manual rework
 - 📐 I focus on governance and self-serve reporting, not one-off dashboards
 - 🤝 I work directly with stakeholders to define KPIs before touching a single visual
-- ⚡ Ask me about Power BI, DAX, SQL Server, and Microsoft Fabric
+
 
 <br/>
 
@@ -89,18 +89,26 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-### ⭐ Top Projects
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-**Retail Supply Chain & Sales** — Power BI, SQL
-**Cohort Analysis (E-commerce)** — SQL Server
-**Temperature Sensor Analytics** — Fabric, Power BI
+### 📈 Key Achievements
+
+- Improved data accuracy to **99%+** through large-scale data validation
+- Reduced manual reporting effort by **30%** with automated Power BI dashboards
+- Cut manual data processing time by **40%+** via automated Fabric pipelines
+- Enabled **~30% faster decision-making** through DAX-driven KPI systems
 
 </td>
 <td width="50%" valign="top" align="center">
 
-### 💬 Random Dev Quote
+### 🎓 Certifications
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+- Microsoft Fabric – A Deeper Dive
+- Data Analysis by Microsoft
+- MS SQL Server by HackerRank (Advanced and Intermediate)
+- Data Analysis in Python by IBM
 
 </td>
 </tr>

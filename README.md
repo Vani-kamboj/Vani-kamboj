@@ -97,8 +97,7 @@
 
 ## 💼 Featured Projects
 
-> Sample showcases below — real engagements involve more advanced, scalable, business-driven solutions tailored to specific requirements.
-
+> Sample showcases below :-
 <table>
 <tr>
 <td width="33%" valign="top">

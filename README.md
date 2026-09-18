@@ -37,11 +37,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Report%20Builder-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Report Builder" />
 </p>
 
 **🔌 Data Sources**
@@ -52,6 +50,7 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20API-CC2927?style=for-the-badge&logo=WebAPI&logoColor=white"/>
 </p>
 
 <div align="center">
@@ -98,7 +97,7 @@
 
 - Microsoft Fabric – A Deeper Dive
 - Data Analysis by Microsoft
-- MS SQL Server by HackerRank
+- MS SQL Server by HackerRank (Advanced and Intermediate)
 - Data Analysis in Python by IBM
 
 </td>

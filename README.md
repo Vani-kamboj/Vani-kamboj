@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:F2C811&height=190&section=header&text=Vani%20Kamboj&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:F2C811&height=170&section=header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Data+Analyst;Power+BI+%7C+SQL+%7C+Microsoft+Fabric;Turning+Raw+Data+Into+Business+Decisions&font=Fira+Code&center=true&width=520&height=40&color=0078D4&vCenter=true&size=20"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=32&pause=1000&color=0078D4&center=true&vCenter=true&width=460&height=45&lines=Vani+Kamboj" alt="name"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=6B7280&center=true&vCenter=true&width=520&height=30&lines=Senior+Data+Analyst;Power+BI+%7C+SQL+%7C+Microsoft+Fabric;Turning+Raw+Data+Into+Business+Decisions" alt="tagline"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🇮🇳%20India-000000?style=flat-square&labelColor=F2C811&color=0078D4&logoColor=black"/>
+<img src="https://img.shields.io/badge/4%2B%20Years%20Experience-0078D4?style=flat-square&labelColor=F2C811&logoColor=black"/>
+<img src="https://img.shields.io/badge/BI%20%26%20Analytics%20Engineering-0078D4?style=flat-square&labelColor=F2C811&logoColor=black"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/vani-kamboj-629174208/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vaanikamboj12@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://portfolio-vanikamboj-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Vani-kamboj/Vani-Kamboj.portfolio.github.io/blob/main/VaniKamboj_Data_Analyst.pdf"><img src="https://img.shields.io/badge/Resume-F2C811?style=for-the-badge&logo=adobeacrobat&logoColor=black"/></a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-| 🇮🇳 Location | 🕓 Experience | 🎯 Focus | 
-|:---:|:---:|:---:|
-| India | 4+ Years | BI & Analytics Engineering |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px">
 
 </div>
 

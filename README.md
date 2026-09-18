@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readmeforge.natrajx.in/api/header?name=Namaste%2C%20I%27m%20Vani%20Kamboj%20%F0%9F%99%8F&title=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&style=signal-wave&theme=light&bg=%23FFFFFF&textColor=%23000000&subtextColor=%23000000&border=none&borderWidth=0&colors=%23000000,%23000000&width=1200&height=260&animated=true&speed=1&particles=25"/>
+<img src="https://readmeforge.natrajx.in/api/header?name=Namaste%2C%20I%27m%20Vani%20Kamboj%20%F0%9F%99%8F&title=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&style=signal-wave&theme=light&bg=%23FFFFFF&textColor=%23000000&subtextColor=%23000000&border=none&borderWidth=-1&colors=%23000000,%23000000&width=1200&height=260&animated=true&speed=1&particles=25"/>
 
 <br/>
 

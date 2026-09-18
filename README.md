@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:F2C811&height=210&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=58&descSize=16&descColor=F8FAFC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A4EF&height=210&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=58&descSize=16&descColor=F8FAFC"/>
 
 <img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
 
 </div>
 
 <br/>
+
+<div align="center">
+
+**Data Analytics • Business Intelligence • Data Modeling • ETL • Reporting**
+
+</div>
 
 ## 👋 About Me
 

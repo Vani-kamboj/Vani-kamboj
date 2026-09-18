@@ -66,18 +66,7 @@
 
 <br/>
 
-## 📈 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vani-kamboj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vani-kamboj&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vani-kamboj&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<br/>
 
 <table align="center" width="100%">
 <tr>

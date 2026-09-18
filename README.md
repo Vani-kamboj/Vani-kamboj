@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:F2C811&height=210&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=58&descSize=16&descColor=F8FAFC"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyMjAiIHZpZXdCb3g9IjAgMCAxMjAwIDIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmcyIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwQjEyMjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTAyQTQzIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjIwIiBmaWxsPSJ1cmwoI2JnMikiLz4KCiAgPCEtLSB0aGluIGFjY2VudCBsaW5lIC0tPgogIDxyZWN0IHg9IjYwIiB5PSI3MCIgd2lkdGg9IjcwIiBoZWlnaHQ9IjQiIGZpbGw9IiNGMkM4MTEiLz4KCiAgPHRleHQgeD0iNjAiIHk9IjYwIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNiIgbGV0dGVyLXNwYWNpbmc9IjMiIGZpbGw9IiM3RkI4RjUiPgogICAgREFUQSAmIzgyMjY7IElOU0lHSFRTICYjODIyNjsgREVDSVNJT05TCiAgPC90ZXh0PgoKICA8dGV4dCB4PSI2MCIgeT0iMTMwIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0ZGRkZGRiI+CiAgICBOYW1hc3RlLCBJJ20gVmFuaSBLYW1ib2oKICA8L3RleHQ+CgogIDx0ZXh0IHg9IjYwIiB5PSIxNjUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE5IiBmaWxsPSIjQ0JENUUxIj4KICAgIFNlbmlvciBEYXRhIEFuYWx5c3QgJm5ic3A7fCZuYnNwOyBQb3dlciBCSSAmIzE4MzsgU1FMICYjMTgzOyBNaWNyb3NvZnQgRmFicmljCiAgPC90ZXh0PgoKICA8cmVjdCB4PSIwIiB5PSIyMTQiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYiIGZpbGw9IiNGMkM4MTEiLz4KPC9zdmc+Cg==" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
 
@@ -15,7 +15,7 @@
 - ⚙️ I build automated pipelines so reports refresh reliably without manual rework
 - 📐 I focus on governance and self-serve reporting, not one-off dashboards
 - 🤝 I work directly with stakeholders to define KPIs before touching a single visual
-- ⚡ Ask me about Power BI, DAX, SQL Server, and Microsoft Fabric
+
 
 <br/>
 

@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=0078D4&animation=fadeIn&fontAlignY=40&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=62&descSize=16"/>
 
 <img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0891B2&style=flat-square"/>
 

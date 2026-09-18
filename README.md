@@ -1,8 +1,6 @@
-<<div align="center">
+<div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Vani-kamboj/Vani-kamboj/main/assets/data-banner.svg" alt="Vani Kamboj - Senior Data Analyst"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0078D4,100:00A4EF&height=220&section=header&text=Namaste,%20I'm%20Vani%20Kamboj%20🙏&fontSize=34&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=Senior%20Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Microsoft%20Fabric&descAlignY=64&descSize=16&descColor=E2E8F0"/>
 
 <img src="https://komarev.com/ghpvc/?username=Vani-kamboj&label=Profile%20Views&color=0078D4&style=flat-square"/>
 

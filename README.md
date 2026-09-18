@@ -8,9 +8,7 @@
 
 </div>
 
-**Data Analytics • Business Intelligence • Data Modeling • ETL • Reporting**
-
-</div>
+<br/>
 
 ## 👋 About Me
 
